@@ -1,11 +1,14 @@
 {
   "name": "poc-lerna-nextjs",
   "private": true,
-  "useWorkspaces": true,
   "devDependencies": {
     "lerna": "^3.15.0"
   },
   "dependencies": {
     "microbundle": "^0.11.0"
-  }
+  },
+  "workspaces": [
+    "packages/*",
+    "src/my-site"
+  ]
 }

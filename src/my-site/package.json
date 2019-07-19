@@ -1,4 +1,6 @@
 {
+  "name": "my-site",
+  "version": "0.0.0",
   "scripts": {
     "dev": "next",
     "build": "next build",

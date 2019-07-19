@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.js"],"sourcesContent":["import React from 'react';\n\nexport default () => (\n  <div>Meu querido componente</div>\n)\n"],"names":["React"],"mappings":"6GAGEA,2BAAK"}

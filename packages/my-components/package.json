@@ -1,7 +1,13 @@
 {
   "name": "my-components",
   "version": "0.0.0",
+  "main": "dist/index.js",
+  "source": "src/index.js",
   "scripts": {
-    "dev": ""
+    "dev": "microbundle watch --jsx React.createElement"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.mjs","sources":["../src/index.js"],"sourcesContent":["import React from 'react';\n\nexport default () => (\n  <div>Meu querido componente</div>\n)\n"],"names":["React"],"mappings":"sDAGEA,2BAAK"}
