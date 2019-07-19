@@ -1,2 +1,2 @@
-# poc-lerna
-POC for monorepo with Lerna
+# poc-lerna-nextjs
+POC for monorepo with Lerna and Next.js
